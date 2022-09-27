@@ -1,16 +1,19 @@
-# myactivities_extension
+   ##  How use this chrome extension:
+1. Download this folder.<a href="https://github.com/r3nyah/MyActivitiesExtension/tree/master/build/web">Here</a><br>
+![build_web_folder](https://user-images.githubusercontent.com/88012298/192227167-dc65a33b-610e-4ab9-89b5-70691c7c3f86.png)
 
-A new Flutter project.
+2. Open on chrome.
+```
+chrome://extensions/
+```
 
-## Getting Started
+3. Click on Load unpacked.<br>
+![Extension](https://user-images.githubusercontent.com/88012298/192228524-b9071da2-8a6f-4c3e-894f-63fcf3f126e0.png)
 
-This project is a starting point for a Flutter application.
+4. Choose "web" folder.(You can obtain this file from step number 1).<br>
+![web](https://user-images.githubusercontent.com/88012298/192229144-9d3f2841-14dd-4c4f-9901-b07b5cf07c1c.png)
 
-A few resources to get you started if this is your first Flutter project:
+<br>
+<br>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<!--flutter build web --web-renderer html --csp-->
